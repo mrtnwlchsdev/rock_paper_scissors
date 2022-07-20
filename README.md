@@ -2,6 +2,9 @@
 
 ## Rock 🪨, paper 🧻 or scissors ✂️
 
-Download and then open the index.html file on your browser and challenge the computer.
+
+    $ git clone https://github.com/mrtnwlchsdev/rock_paper_scissors.git
+
+Then open the index.html file on your browser and challenge the computer.
 
 Type your choice through window prompts.
